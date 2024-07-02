@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project, we will retrieve the current weather data from the OpenWeatherMap API and display information such as temperature, weather conditions, humidity, and wind speed for a specified city.
+
+In this React.js weather app project, you need to enter the name of a city, state, or country to get accurate weather data using the free API.
+
 ## Available Scripts
 
 In the project directory, you can run:
